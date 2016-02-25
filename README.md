@@ -1,5 +1,5 @@
-# PopularMovies_1
-Popular Movies, Part 1
+# PopularMovies_2
+Popular Movies, Part 2
 
 API KEY!!!
 Please note that you will have to add your own API key in order for this application to function properly.
